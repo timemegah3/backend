@@ -1,1 +1,1 @@
-848701f0d3d877def4b88a9b4c4769484269c45f
+Rota para realizar a analise da IA: "api/analisarImagem" (POST) Retorna JSON um array para cada objeto encontrado.
